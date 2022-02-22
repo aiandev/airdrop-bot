@@ -1,8 +1,11 @@
 {
-    "token" : "YOUR BOT TOKEN",
+    "token" : "5283647198:AAF3iQMNrApXnOWmGcGf__ZIMuRya3LYGhg",
     "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "intro" : "Welcome to Stabila Airdrop",
+    "botname" :"Stabila Airdrop",
+    "stabilagroup": "https://t.me/stabilastb",
+    "contract_address": "ScQngJHAdMGWCUP92D6fra4KdrhRsPnzx1",
+    "token name": "MNT",
+    "token price": "0.001",
+    "token qty": "10000"
 }

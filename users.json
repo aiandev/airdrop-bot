@@ -1,11 +1,1 @@
-{
-    "users": [],
-    "twitter": {},
-    "discord" : {},
-    "eth": {},
-    "id": {},
-    "ref" : {},
-    "total": 1000 ,
-    "process" : {},
-    "referred" : {}
-}
+{"users": ["sunbitcoin99"], "twitter": {"sunbitcoin99": "Discord"}, "discord": {"sunbitcoin99": "Referral Link"}, "stb": {"sunbitcoin99": "Referred"}, "id": {"sunbitcoin99": 1001}, "ref": {"sunbitcoin99": 0}, "total": 1001, "process": {"sunbitcoin99": "finished"}, "referred": {}}
